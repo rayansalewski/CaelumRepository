@@ -1,6 +1,13 @@
-.idea/
-ingresso.iml
-target/
+.settings/
+bin/
+tmp/
+.metadata
 .classpath
 .project
-.settings/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.git
